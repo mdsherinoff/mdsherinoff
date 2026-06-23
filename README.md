@@ -7,7 +7,7 @@
 
 # 📼 NOW PLAYING: @mdsherinoff
 ### *A Final-Year Production*
-Looking for a full-time role or internship where I can keep shipping things like the projects below. Open to SWE, backend, and civic-tech-adjacent roles. Open to Offers, Summer '27 
+Looking for a full-time role or internship where I can keep shipping things like the projects below. Open to SWE, backend, and civic-tech-adjacent roles, Summer '27 
 
 </div>
 
@@ -26,7 +26,7 @@ Looking for a full-time role or internship where I can keep shipping things like
 
 **IN THEATERS MAY 2027**
 
-🎬 Open to SWE / backend offers — Summer 2027
+🎬 Open to offers — Summer 2027
 
 ✩ ✩ ✩ ✩ ✩
 
