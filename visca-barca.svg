@@ -1,0 +1,39 @@
+<svg width="500" height="80" viewBox="0 0 500 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="typeWipe">
+      <rect x="0" y="0" width="0" height="80">
+        <animate attributeName="width"
+                 values="0;0;360;360;0"
+                 keyTimes="0;0.04;0.55;0.92;1"
+                 calcMode="spline"
+                 keySplines="0.3 0 0.2 1;0 0 1 1;0 0 1 1;0 0 1 1"
+                 dur="4.6s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#typeWipe)">
+    <text x="20" y="50" font-family="'Trebuchet MS','Arial Narrow',Arial,sans-serif" font-weight="700" font-size="38" letter-spacing="3">
+      <tspan fill="#A50044">VISCA </tspan><tspan fill="#004D98">BARÇA!</tspan>
+    </text>
+  </g>
+
+  <rect x="20" y="18" width="3" height="36" fill="#A50044">
+    <animate attributeName="x"
+             values="20;20;380;380;20"
+             keyTimes="0;0.04;0.55;0.92;1"
+             calcMode="spline"
+             keySplines="0.3 0 0.2 1;0 0 1 1;0 0 1 1;0 0 1 1"
+             dur="4.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0" dur="0.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <path d="M 18 64 Q 200 70 382 64" stroke="#FFED02" stroke-width="3" fill="none"
+        stroke-dasharray="400" stroke-dashoffset="400">
+    <animate attributeName="stroke-dashoffset"
+             values="400;400;0;0;400"
+             keyTimes="0;0.55;0.7;0.92;1"
+             dur="4.6s"
+             repeatCount="indefinite"/>
+  </path>
+</svg>
