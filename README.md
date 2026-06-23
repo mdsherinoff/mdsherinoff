@@ -34,7 +34,7 @@ Looking for a full-time role or internship where I can keep shipping things like
 
 ---
 
-### 🛠️ LINEUP (a.k.a. Techstack)
+### 🛠️ CAST (a.k.a. Techstack)
 
 <div align="center">
 
