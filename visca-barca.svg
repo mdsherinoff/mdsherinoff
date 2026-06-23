@@ -1,4 +1,4 @@
-<svg width="500" height="80" viewBox="0 0 500 80" xmlns="http://www.w3.org/2000/svg">
+<svg width="400" height="80" viewBox="0 0 400 80">
   <defs>
     <clipPath id="typeWipe">
       <rect x="0" y="0" width="0" height="80">
@@ -14,7 +14,7 @@
 
   <g clip-path="url(#typeWipe)">
     <text x="20" y="50" font-family="'Trebuchet MS','Arial Narrow',Arial,sans-serif" font-weight="700" font-size="38" letter-spacing="3">
-      <tspan fill="#A50044">VISCA </tspan><tspan fill="#004D98">BARÇA!</tspan>
+      <tspan fill="#004D98">VISCA </tspan><tspan fill="#A50044">BARÇA!</tspan>
     </text>
   </g>
 
