@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- VHS TOP BAR -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3000&pause=1000&color=F7B801&background=00000000&center=true&vCenter=true&width=600&lines=%E2%96%B6+PLAY+TAPE...;LOADING+mdsherinoff.EXE;BE+KIND%2C+REWIND." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3000&pause=1000&color=F7B801&background=00000000&center=true&vCenter=true&width=600&lines=%E2%96%B6+PLAY+TAPE...;LOADING+mdsherinoff.exe;BE+KIND%2C+REWIND." alt="Typing SVG" />
 
 <br/>
 
