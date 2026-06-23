@@ -120,6 +120,5 @@ Felt like Malayalam was underrepresented in the Raycast community. So, I built a
 <div align="center">
 
 Thanks for stopping by. Feel free to check out my projects or reach out.
-**Visca Barça** 🔵🔴
-
+![Visca Barca](https://raw.githubusercontent.com/mdsherinoff/mdsherinoff/main/visca-barca.svg)
 </div>
