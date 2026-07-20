@@ -26,7 +26,7 @@ Looking for a full-time role or internship where I can keep shipping things like
 
 **IN THEATERS MAY 2027**
 
-🎬 Open to Work — Summer 2027
+🎬 Open to Work
 
 ✩ ✩ ✩ ✩ ✩
 
